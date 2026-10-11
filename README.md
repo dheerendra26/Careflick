@@ -15,11 +15,6 @@ The application allows caregivers to submit forms for residents and view previou
 
 ![Careflick Hero Page](website-demo/Hero-Page.png)
 
----
-
-## Live Demo
-
-**[Explore](https://careflick.netlify.app/)**
 
 ---
 
